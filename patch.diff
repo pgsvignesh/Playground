@@ -1,0 +1,22 @@
+From 469c2eaed280a630d61364caf378fc8a05ff4eaa Mon Sep 17 00:00:00 2001
+From: Sailappa Vignesh P G <sailappa@mstsolutions.com>
+Date: Sun, 19 Aug 2018 19:37:05 -0700
+Subject: [PATCH] Commit from branch 3
+
+---
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/README.md b/README.md
+index 04dd3df..f80604a 100644
+--- a/README.md
++++ b/README.md
+@@ -6,3 +6,4 @@ update from branch 3
+ 
+ Commit from branch 1 commit 3
+ 
++Commit froom branch 3 at evening
+\ No newline at end of file
+-- 
+2.18.0.windows.1
+
